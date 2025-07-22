@@ -1,6 +1,6 @@
 # Power-BI-Dashboard-Project-Magang
 
-Repositori ini berisi proyek dashboard interaktif yang dibuat menggunakan **Power BI** untuk menganalisis permintaan layanan dan kinerja pegawai di **KPU Soekarno-Hatta**, berdasarkan data tiket layanan dari CeisaCare.
+Repositori ini berisi proyek dashboard interaktif yang dibuat menggunakan **Power BI** untuk menganalisis permintaan layanan dan kinerja pegawai, berdasarkan data tiket layanan dari CeisaCare.
 
 ## Tujuan Dashboard
 
